@@ -1,0 +1,15 @@
+
+        ----------------------------------------
+                    MISSING REPORT  
+        ----------------------------------------
+        Name : Suresh
+        Age : 30
+        Gender : Male
+        Contact Number : 1234567890
+        Last Location : Ahmedabad
+        Missing Date : 14-05-2023
+        Missing Time : 13:25
+        Status = "Missing"
+        Image Path : E:\Sem-3 Project\Pariiiiii\img\Suresh.jpg
+        ----------------------------------------
+        
